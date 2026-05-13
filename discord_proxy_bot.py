@@ -17,9 +17,9 @@ from discord.ext import commands
 # ─── КОНФИГ ──────────────────────────────────────────────────────────────────
 BOT_TOKEN = os.environ["BOT_TOKEN"]  # задай в Railway: Variables → BOT_TOKEN
 
-SCREENSHOT_CHANNEL_ID  = 1453394845337911338
-SCREENSHOT_MODER_CH_ID = 1453396252963373197
-BAN_LOG_CHANNEL_ID     = 1453394845337911337
+SCREENSHOT_CHANNEL_ID  = 1496897127010537531
+SCREENSHOT_MODER_CH_ID = 1496897127010537529
+BAN_LOG_CHANNEL_ID     = 1496897127190761735
 
 API_SECRET      = "xK9mP2qR7vL4nZ1w"
 HTTP_PORT       = int(os.environ.get("PORT", 8765))  # Railway сам задаёт PORT
