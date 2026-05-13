@@ -15,7 +15,7 @@ from discord import app_commands
 from discord.ext import commands
 
 # ─── КОНФИГ ──────────────────────────────────────────────────────────────────
-BOT_TOKEN = "MTMxMjQxMzA3MDY0NzIzMDUxNQ.G4tr3L.6bgxJcXmPbcYoeI0fhu4nb4xjVEQC7jekLK_NM"
+BOT_TOKEN = "MTMxMjQxMzA3MDY0NzIzMDUxNQ.G36nRV.Ll-AogX8Uxj2kizg1tGs2UXM-15YxtAC14Bues"
 
 SCREENSHOT_CHANNEL_ID  = 1496897127010537531
 SCREENSHOT_MODER_CH_ID = 1496897127010537529
